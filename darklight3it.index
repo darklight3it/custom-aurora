@@ -11,6 +11,6 @@
     </info>
     <files>
     <file name="darklight3it-races.index" url="https://raw.githubusercontent.com/darklight3it/custom-aurora/master/races/darklight3it-races.index" />
-           
+    <file name="darklight3it-items.index" url="https://raw.githubusercontent.com/darklight3it/custom-aurora/master/items/darklight3it-items.index" />       
     </files>
 </index>
