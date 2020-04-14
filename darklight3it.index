@@ -6,13 +6,9 @@
         <description>My personal custom content for Aurora Builder</description>
         <author>darklight3it</author>
         <update version="0.0.1" revised="">
-            <file name="core.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core.index" />
+            <file name="core.index" url="https://raw.githubusercontent.com/darklight3it/custom-aurora/master/darklight3it.index" />
         </update>
     </info>
     <files>
-        <obsolete name="sources.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/sources.xml" />
-        <file name="dungeon-masters-guide.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/dungeon-masters-guide.index" />
-        <file name="monster-manual.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/monster-manual.index" />
-        <file name="players-handbook.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook.index" />
     </files>
 </index>

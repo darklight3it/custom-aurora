@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <name>Myconid</name>
+        <author>Darklight3it
+        </author>
+        <update version="0.1.7">
+            <file name="race-myconid.xml"
+                  url="https://raw.githubusercontent.com/aurorabuilder/elements/master/darklight3it/race-myconid.xml"/>
+        </update>
+    </info>
+
+    <element name="Myconid" type="Race" source="Darklight3it's Custom" id="ID_DARKLIGHT3IT_RACE_MYCONID">
+        <description>
+            <p>Also called "mushroom men" or "fungus ones", myconids are intelligent, ambulatory fungi that live in the
+                Underdark and the deepest, darkest depths of forests, seeking enlightenment and deploring violence. If
+                approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
+                Violence taints their melds, so the myconids enter battle only in defense or as a last resort, viewing
+                violence as part of the abhorrent nature of fleshy outsiders.
+            </p>
+
+            <p>Instead, the moving plants prefer a peaceable lifestyle, finding joy in pastoral commonality and shared
+                happiness. Living in circles of roughly twenty myconids or settlements of larger groups, myconids
+                cultivate
+                nonsentient mushrooms and myconid sprouts in gardens. The precise 8-hour divisions of leisure, work, and
+                melding creates a satisfying, if regimented, existence for these creatures, which regard such a
+                lifestyle as
+                completely ideal.
+            </p>
+
+            <h4>CIRCLES AND MELDS</h4>
+            <p>The largest myconid in a colony is its sovereign, which presides over one or more social groups called
+                circles, which live in quiet groves bereft of speech but exploding with the color of the diverse plants,
+                fungi, and compost within. A circle of myconids that work, live, and meld together with the sovereign,
+                which
+                settles disputes and makes decisions to benefit the entire group.
+            </p>
+
+            <p>A meld is a form of communal meditation that allows myconids to transcend their damp, pastoral existence.
+                The myconids' rapport spores bind the participants into a group consciousness. Hallucination spores then
+                induce a shared dream that provides comfort and social interaction. Myconids consider melding to be an
+                enlightening act and the purpose of their existence. They use it in the pursuit of higher consciousness,
+                collective union, and spiritual apotheosis. Myconids also use their rapport spores to communicate
+                telepathically with "softies" who come seeking shelter or conflict.
+            </p>
+
+            <h4>THE POWER OF SPORES</h4>
+            <p>In addition to the versatile rapport spores and sublime hallucination spores, myconids use spores to
+                reproduce. The new young are cultivated in gardens to become myconid sprouts, precocious young raised
+                communally by the circle. Pacifying spores stun hostile intruders so the group might flee or wield a
+                spore servant against them. Spore servants represent a terrifying aspect of the fungal race, the corpse
+                of a
+                once-living creature raised to serve as soldiers, guards, and scouts. Creatures controlled by these
+                Animating Spores serve the myconids for weeks on end, until finally collapsing or another enemy destroys
+                them.
+            </p>
+
+            <h4>ANATOMY OF A FUNGUS</h4>
+            <p>Myconids are bipedal, with strong, squat bodies supported by strong, trunklike legs with vestigial toes.
+                Each myconid has two arms that ends with a pair of fingers and a single thumb, more than sufficient for
+                their simple agriculture. While their mycelial bodies provide notable durability, myconids are not
+                typically
+                skilled fighters. Myconids grow drastically over their lives, with sprouts barely reaching two feet and
+                sovereigns towering to almost twelve.
+            </p>
+
+            <h4>FLIGHT FROM THE SUN</h4>
+            <p>Myconids cannot survive in the sun. Direct light sickens them severely, and an hour of exposure kills
+                them outright. Even the most durable of the adventuring myconids are not immune to the power of the sun.
+                Wandering on the surface is a constant risk for most myconids, who instead flock to the Underdark or
+                shelters of moist darkness in the oldest of forests where canopies of trees create a perpetual twilight.
+                There they find shelter in damp marshes and springs, surrounded by moss and lesser mushrooms which they
+                cultivate for food and grow for use as building materials.
+            </p>
+            <h4>MYCONID NAMES</h4>
+            <p>Myconid names often sound nonsensical to outside ears, but are in fact derived from "softy" vocabulary.
+                Myconids rarely use names within their circles, preferring rapport spores and the connections of melding
+                to refer to each other in concept rather than word. They often take names from sounds that each myconid
+                finds pleasing to the ear, borrowing from the world around them or from a wandering traveler offered
+                hospitality in their grvoes. Others adopt mushroom-related vocabulary that they fine pleasant.
+            </p>
+            <p>
+                <span class="feature">Myconid Names:</span>Basidia, Breberil, Brelup, Gasbide, Hebopbe, Loobamub, Phylo,
+                Posbara, Rasharoo, Rumpadump, Stool, Yestabrod.
+            </p>
+
+            <h4>MYCONID TRAITS</h4>
+            <p>Your myconid character has certain characteristics in common with all other myconids.</p>
+            <p>
+                <span class="feature">Ability Score Increase.</span>Your Wisdom score increases by 2.
+                <br/>
+                <span class="feature">Age.</span>Myconid have a brief period of adolescence whilst anchored to the
+                ground sprouting. Reaching mental and physical maturity in a matter of hours, sometimes days. Myconid
+                can live independently as long as basic nutritional needs are met, but will return to their homeland
+                after a grand adventure and choose to die, returning peacefully to the loamy soil under the shade of
+                their favorite tree, nestled into a crook of nostalgic trunk hollow.
+                <br/>
+                <span class="feature">Alignment.</span>Myconid instinctually tend to cultivate relationships with the
+                animals and land around them in an act of mutualistic symbiosis. Thus, are observed embodying the
+                tenants of the Neutral Good alignment in times of peace and prosperity. However,
+                when their clan's survival is at risk a Myconid will not hesitate to act swiftly with a harsh True
+                Neutral apathy only found in nature.
+                <br/>
+                <span class="feature">Size.</span>The physical size of a Myconid is directly proportional to how many
+                hours it was able to safety sprout from the ground and how much room it had to grow. Small Myconid are
+                around 3 feet tall. Medium Myconid range from 5 to 8 feet tall.
+                <br/>
+                <span class="feature">Speed.</span>Your base walking speed is 25 feet for small sized Myconid, 30 feet
+                for medium size.
+                <br/>
+                <span class="feature">Superior Darkvision.</span>Accustomed to life underground, you have superior
+                vision in dark
+                and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in
+                darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+                <br/>
+                <span class="feature">Sunlight Sensitivity.</span>You have disadvantage on attack rolls and on Wisdom
+                (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying
+                to perceive is in direct sunlight.
+                <br/>
+                <span class="feature">Size Matters.</span>Small size Myconid can move through the space of any creature
+                that is of a size larger than them. That creature's space is still difficult terrain.
+                <br/>
+                <span class="feature">Certified Organic.</span>You have proficiency in the Nature skill.
+                <br/>
+                <span class="feature">Languages.</span>You can understand, read and write Common and Undercommon but not
+                speak it.
+                <br/>
+                <span class="feature">Rapport Spores.</span>
+                You may as an action, extend rapport spores in a 20-foot radius. These spores can go around corners and
+                affect only creatures with an Intelligence of 2 or higher that aren't undead, constructs, or elementals.
+                Affected creatures can communicate telepathically with one another while they are within 30 feet of each
+                other. The effect lasts for 1 hour.
+                <br/>
+                <span class="feature">Subrace.</span>Two subraces of myconid are found among the worlds of D&amp;D.
+                Choose one of these subraces.
+                <br/>
+            </p>
+        </description>
+        <sheet display="false"/>
+        <setters>
+            <set name="names" type="name">Basidia, Breberil, Brelup, Gasbide, Hebopbe, Loobamub, Phylo, Posbara,
+                Rasharoo, Rumpadump, Stool, Yestabrod
+            </set>
+            <set name="names-format">{{name}}</set>
+        </setters>
+        <rules>
+            <stat name="wisdom" value="2"/>
+            <stat name="innate speed" value="30" bonus="base"/>
+            <grant type="Size" id="ID_SIZE_SMALL"/>
+            <grant type="Vision" id="ID_VISION_SUPERIORDARKVISION"/>
+            <grant type="Racial Trait" id="ID_RACIAL_TRAIT_SUNLIGHT_SENSITIVITY"/>
+            <grant type="Racial Trait" id="ID_RACIAL_TRAIT_CERTIFIED_ORGANIC"/>
+            <grant type="Language" id="ID_LANGUAGE_COMMON"/>
+            <grant type="Racial Trait" id="ID_DARKLIGHT3IT_RACIAL_TRAIT_MYCONID_SUBRACE"/>
+        </rules>
+    </element>
+
+    <element name="Certified Organic" type="Racial Trait" source="Custom" id="ID_RACIAL_TRAIT_CERTIFIED_ORGANIC">
+        <description>
+            <p>You have proficiency in the Nature skill.</p>
+        </description>
+        <sheet>
+            <description>You have proficiency in the Nature skill.
+            </description>
+        </sheet>
+        <rules>
+            <grant type="Proficiency" id="ID_PROFICIENCY_SKILL_NATURE"/>
+        </rules>
+    </element>
+
+    <element name="Myconid Subrace" type="Racial Trait" source="Player’s Handbook" id="ID_DARKLIGHT3IT_RACIAL_TRAIT_MYCONID_SUBRACE">
+        <description>
+            <p>Two subraces of Myconid are found among the worlds of D&amp;D. Choose one
+                of these subraces.
+            </p>
+        </description>
+        <sheet display="false"/>
+        <rules>
+            <select type="Sub Race" name="Myconid Subrace" supports="Myconid"/>
+        </rules>
+    </element>
+
+    <element name="Underdark Myconid" type="Sub Race" source="Player’s Handbook" id="ID_DARKLIGHT3IT_SUB_RACE_UNDERDARK_MYCONID">
+        <supports>Myconid</supports>
+        <descriptionas>
+            <p>Rarely, a chosen Myconid will brave the surface and go on pilgrimage. Being a strange creature in a
+                strange land does not impede the bullish resolve these chosen few possess.
+            </p>
+            <p>
+                <span class="feature">Ability Score Increase.</span>Your Constitution score increases by 1.
+                <br/>
+                <span class="feature">Meld Into Stone.</span>Once you reach 3rd level you can cast the Meld into Stone
+                spell once with this feature. You regain the ability to cast it this way when you finish a long rest.
+                Wisdom is your spellcasting ability .
+                <br/>
+                <span class="feature">Additional Language.</span>Myconid from the underdark have learned, albeit
+                begrudgingly, the language of the creatures that frequently pillage and raid their communities in an
+                effort to bargain with or threaten them. You know Undercommon.
+                <br/>
+            </p>
+        </descriptionas>
+        <sheet display="false"/>
+        <rules>
+            <stat name="constitution" value="1"/>
+            <grant type="Language" id="ID_LANGUAGE_UNDERCOMMON"/>
+            <grant type="Racial Trait" id="ID_DARKLIGHT3IT_RACIAL_TRAIT_STONE_MELD"/>
+        </rules>
+    </element>
+
+    <element name="Stone Meld" type="Racial Trait" source="Darklight3it's Custom" id="ID_DARKLIGHT3IT_RACIAL_TRAIT_STONE_MELD">
+        <description>
+            <p>Once you reach 3rd level you can cast the Meld into Stone spell once with this feature. You regain the
+                ability to cast it this way when you finish a long rest. Wisdom is your spellcasting ability.
+            </p>
+        </description>
+        <sheet>
+            <description>You can cast the Meld into Stone spell once with this feature. You regain the ability to cast
+                it this way when you finish a long rest. Wisdom is your spellcasting ability.
+            </description>
+        </sheet>
+        <rules>
+            <grant type="Spell" id="ID_PHB_SPELL_MELD_INTO_STONE" level="3"/>
+        </rules>
+    </element>
+</elements>
