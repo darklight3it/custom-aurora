@@ -16,7 +16,6 @@
             <set name="cost" currency="gp">750</set>
             <set name="type" addition="any">Weapon</set>
             <set name="rarity">Uncommon</set>
-            <set name="enhancement">1</set>
             <set name="weapon">ID_INTERNAL_WEAPON_CATEGORY_SIMPLE_MELEE||ID_INTERNAL_WEAPON_CATEGORY_SIMPLE_RANGED||ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE||ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_RANGED</set>
             <set name="name-format">silver-plated {{parent}}</set>
         </setters>
