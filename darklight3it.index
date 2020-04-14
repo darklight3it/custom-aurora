@@ -5,7 +5,7 @@
         <name>Darklight3it's Custom</name>
         <description>My personal custom content for Aurora Builder</description>
         <author>darklight3it</author>
-        <update version="0.0.1" revised="">
+        <update version="0.0.2" revised="">
             <file name="core.index" url="https://raw.githubusercontent.com/darklight3it/custom-aurora/master/darklight3it.index" />
         </update>
     </info>
