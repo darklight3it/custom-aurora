@@ -4,7 +4,7 @@
         <name>Myconid</name>
         <author>Darklight3it
         </author>
-        <update version="0.0.1">
+        <update version="0.0.2">
             <file name="race-myconid.xml"
                   url="https://raw.githubusercontent.com/darklight3it/custom-aurora/master/races/race-myconid.xml"/>
         </update>
@@ -168,7 +168,7 @@
         </rules>
     </element>
 
-    <element name="Myconid Subrace" type="Racial Trait" source="Player’s Handbook" id="ID_DARKLIGHT3IT_RACIAL_TRAIT_MYCONID_SUBRACE">
+    <element name="Myconid Subrace" type="Racial Trait" source="Darklight3it's races" id="ID_DARKLIGHT3IT_RACIAL_TRAIT_MYCONID_SUBRACE">
         <description>
             <p>Two subraces of Myconid are found among the worlds of D&amp;D. Choose one
                 of these subraces.

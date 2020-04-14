@@ -4,8 +4,8 @@
     <name>Darklight3it'races</name>
     <description>A list of custom races for darklight3</description>
     <author>Darklight3it</author>
-    <update version="0.0.1">
-        <file name="monster-manual.index" url="https://raw.githubusercontent.com/darklight3it/custom-aurora/master/races/darklight3it-races.xml" />
+    <update version="0.0.2">
+        <file name="monster-manual.index" url="https://raw.githubusercontent.com/darklight3it/custom-aurora/master/races/darklight3it-races.index" />
     </update>
 </info>
 <files>
