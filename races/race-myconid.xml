@@ -4,7 +4,7 @@
         <name>Myconid</name>
         <author>Darklight3it
         </author>
-        <update version="0.0.2">
+        <update version="0.0.3">
             <file name="race-myconid.xml"
                   url="https://raw.githubusercontent.com/darklight3it/custom-aurora/master/races/race-myconid.xml"/>
         </update>
@@ -168,7 +168,7 @@
         </rules>
     </element>
 
-    <element name="Myconid Subrace" type="Racial Trait" source="Darklight3it's races" id="ID_DARKLIGHT3IT_RACIAL_TRAIT_MYCONID_SUBRACE">
+    <element name="Myconid Subrace" type="Racial Trait" source="Darklight3it's Custom" id="ID_DARKLIGHT3IT_RACIAL_TRAIT_MYCONID_SUBRACE">
         <description>
             <p>Two subraces of Myconid are found among the worlds of D&amp;D. Choose one
                 of these subraces.
@@ -180,7 +180,7 @@
         </rules>
     </element>
 
-    <element name="Underdark Myconid" type="Sub Race" source="Player’s Handbook" id="ID_DARKLIGHT3IT_SUB_RACE_UNDERDARK_MYCONID">
+    <element name="Underdark Myconid" type="Sub Race" source="Darklight3it's Custom" id="ID_DARKLIGHT3IT_SUB_RACE_UNDERDARK_MYCONID">
         <supports>Myconid</supports>
         <descriptionas>
             <p>Rarely, a chosen Myconid will brave the surface and go on pilgrimage. Being a strange creature in a
