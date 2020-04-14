@@ -10,5 +10,7 @@
         </update>
     </info>
     <files>
+    <file name="darklight3it-races.index" url="https://raw.githubusercontent.com/darklight3it/custom-aurora/master/races/darklight3it-races.index" />
+           
     </files>
 </index>
