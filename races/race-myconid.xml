@@ -202,7 +202,7 @@
         <rules>
             <stat name="constitution" value="1"/>
             <grant type="Language" id="ID_LANGUAGE_UNDERCOMMON"/>
-            <grant type="Racial Trait" id="ID_DARKLIGHT3IT_RACIAL_TRAIT_STONE_MELD"/>
+            <grant type="Racial Trait" id="ID_DARKLIGHT3IT_RACIAL_TRAIT_FUNGAL_FORM"/>
         </rules>
     </element>
 
