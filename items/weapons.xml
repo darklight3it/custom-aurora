@@ -3,11 +3,11 @@
     <info>
         <name>Weapons</name>
         <author>darklight3it</author>
-        <update version="0.0.2">
+        <update version="0.0.2" revised="true">
             <file name="weapons.xml" url="https://raw.githubusercontent.com/darklight3it/custom-aurora/master/items/weapons.xml" />
         </update>
     </info>
-    <element name="Silver-Plated Weapon" type="Weapons" source="Darklight3it's Custom" id="ID_DARKLIGHT3IT_SILVER_PLATED_WEAPON">
+    <element name="Silver-Plated Weapon" type="Weapon" source="Darklight3it's Custom" id="ID_DARKLIGHT3IT_SILVER_PLATED_WEAPON">
         <description>
             <p>This sword was coated with a layer of silver to damage magical creatures. When this swords deals damage, it's considered silvered.</p>
         </description>
@@ -20,5 +20,4 @@
             <set name="name-format">silver-plated {{parent}}</set>
         </setters>
     </element>
-    
 </elements>
