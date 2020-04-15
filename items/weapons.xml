@@ -3,7 +3,7 @@
     <info>
         <name>Weapons</name>
         <author>darklight3it</author>
-        <update version="0.0.2" revised="true">
+        <update version="0.0.3">
             <file name="weapons.xml" url="https://raw.githubusercontent.com/darklight3it/custom-aurora/master/items/weapons.xml" />
         </update>
     </info>
