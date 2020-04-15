@@ -4,7 +4,7 @@
         <name>Myconid</name>
         <author>Darklight3it
         </author>
-        <update version="0.0.4">
+        <update version="0.0.5">
             <file name="race-myconid.xml"
                   url="https://raw.githubusercontent.com/darklight3it/custom-aurora/master/races/race-myconid.xml"/>
         </update>
