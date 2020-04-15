@@ -4,7 +4,7 @@
         <name>Myconid</name>
         <author>Darklight3it
         </author>
-        <update version="0.0.3">
+        <update version="0.0.4">
             <file name="race-myconid.xml"
                   url="https://raw.githubusercontent.com/darklight3it/custom-aurora/master/races/race-myconid.xml"/>
         </update>
@@ -56,7 +56,8 @@
             <p>Myconids are bipedal, with strong, squat bodies supported by strong, trunklike legs with vestigial toes.
                 Each myconid has two arms that ends with a pair of fingers and a single thumb, more than sufficient for
                 their simple agriculture. While their mycelial bodies provide notable durability, myconids are not
-                typically skilled fighters. Myconids grow drastically over their lives, with sprouts barely reaching two feet and
+                typically skilled fighters. Myconids grow drastically over their lives, with sprouts barely reaching two
+                feet and
                 sovereigns towering to almost twelve.
             </p>
 
@@ -151,7 +152,8 @@
         </rules>
     </element>
 
-    <element name="Certified Organic" type="Racial Trait" source="Custom" id="ID_RACIAL_TRAIT_CERTIFIED_ORGANIC">
+    <element name="Certified Organic" type="Racial Trait" source="Darklight3it's Custom"
+             id="ID_RACIAL_TRAIT_CERTIFIED_ORGANIC">
         <description>
             <p>You have proficiency in the Nature skill.</p>
         </description>
@@ -164,7 +166,8 @@
         </rules>
     </element>
 
-    <element name="Myconid Subrace" type="Racial Trait" source="Darklight3it's Custom" id="ID_DARKLIGHT3IT_RACIAL_TRAIT_MYCONID_SUBRACE">
+    <element name="Myconid Subrace" type="Racial Trait" source="Darklight3it's Custom"
+             id="ID_DARKLIGHT3IT_RACIAL_TRAIT_MYCONID_SUBRACE">
         <description>
             <p>Two subraces of Myconid are found among the worlds of D&amp;D. Choose one of these subraces.
             </p>
@@ -175,7 +178,8 @@
         </rules>
     </element>
 
-    <element name="Underdark Myconid" type="Sub Race" source="Darklight3it's Custom" id="ID_DARKLIGHT3IT_SUB_RACE_UNDERDARK_MYCONID">
+    <element name="Underdark Myconid" type="Sub Race" source="Darklight3it's Custom"
+             id="ID_DARKLIGHT3IT_SUB_RACE_UNDERDARK_MYCONID">
         <supports>Myconid</supports>
         <descriptionas>
             <p>Rarely, a chosen Myconid will brave the surface and go on pilgrimage. Being a strange creature in a
@@ -184,9 +188,9 @@
             <p>
                 <span class="feature">Ability Score Increase.</span>Your Constitution score increases by 1.
                 <br/>
-                <span class="feature">Meld Into Stone.</span>Once you reach 3rd level you can cast the Meld into Stone
-                spell once with this feature. You regain the ability to cast it this way when you finish a long rest.
-                Wisdom is your spellcasting ability .
+                <span class="feature">Fungal Form.</span>Once you reach 2nd level you can use an action to
+                voluntarily put your character in a cataleptic state, that cannot be distinguished from a non sentient
+                giant fungus..
                 <br/>
                 <span class="feature">Additional Language.</span>Myconid from the underdark have learned, albeit
                 begrudgingly, the language of the creatures that frequently pillage and raid their communities in an
@@ -202,19 +206,28 @@
         </rules>
     </element>
 
-    <element name="Stone Meld" type="Racial Trait" source="Darklight3it's Custom" id="ID_DARKLIGHT3IT_RACIAL_TRAIT_STONE_MELD">
+    <element name="Fungal Form" type="Racial Trait" source="Darklight3it's Custom"
+             id="ID_DARKLIGHT3IT_RACIAL_TRAIT_FUNGAL_FORM">
         <description>
-            <p>Once you reach 3rd level you can cast the Meld into Stone spell once with this feature. You regain the
-                ability to cast it this way when you finish a long rest. Wisdom is your spellcasting ability.
+            <p>
+                Starting from2nd level you can use an action to voluntarily put your character in a cataleptic state,
+                that cannot be distinguished from a non sentient giant fungus.
+                The character appears in this form to all outward inspection and to spells/abilities that can find
+                sentient life. While in this state, the character is blinded and incapacitated, and its speed drops to
+                0.
+                The character gains also resistance to all damage except psychic. If the character is diseased or
+                poisoned when you cast the spell, or becomes diseased or poisoned while under the spell's effect,
+                the disease and poison have no effect until the spell ends.
+                This state lasts for an hour or less if you dismiss it using an action. You regain this ability after
+                the character finishes a long rest
             </p>
         </description>
-        <sheet>
-            <description>You can cast the Meld into Stone spell once with this feature. You regain the ability to cast
-                it this way when you finish a long rest. Wisdom is your spellcasting ability.
+        <sheet usage="1/Long Rest">
+            <description>Once you reach 2nd level you can assume the appeareance of a non sentient giant fungus. This
+                form cannot be distinguished from a standard giant fungus. While in this form you are blinded, 
+                incapacitated and your speed is 0. You gain also resistance to all damage except psychic and curses and
+                poisons stop their course. This state lasts for an hour or less if you dismiss it using an action.
             </description>
         </sheet>
-        <rules>
-            <grant type="Spell" id="ID_PHB_SPELL_MELD_INTO_STONE" level="3"/>
-        </rules>
     </element>
 </elements>

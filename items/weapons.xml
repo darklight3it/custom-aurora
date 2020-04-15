@@ -3,7 +3,7 @@
     <info>
         <name>Weapons</name>
         <author>darklight3it</author>
-        <update version="0.0.5">
+        <update version="0.0.6">
             <file name="weapons.xml"
                   url="https://raw.githubusercontent.com/darklight3it/custom-aurora/master/items/weapons.xml"/>
         </update>
@@ -16,7 +16,7 @@
             </p>
         </description>
         <setters>
-            <set name="category">Weapons</set>
+            <set name="category">Magic Weapons</set>
             <set name="cost" currency="gp">750</set>
             <set name="type" addition="any">Weapon</set>
             <set name="rarity">Uncommon</set>
@@ -27,7 +27,7 @@
         </setters>
     </element>
 
-    <element name="test ligghtning Weapon" type="Magic Item" source="Darklight3it's Custom"
+    <element name="test lightning Weapon" type="Magic Item" source="Darklight3it's Custom"
              id="ID_DARKLIGHT3IT_TEST_Lightning_WEAPON">
         <description>
             <p>This sword was coated with a layer of silver to damage magical creatures. When this swords deals damage,
@@ -35,7 +35,7 @@
             </p>
         </description>
         <setters>
-            <set name="category">Weapons</set>
+            <set name="category">Magic Weapons</set>
             <set name="cost" currency="gp">750</set>
             <set name="type" addition="any">Weapon</set>
             <set name="rarity">Uncommon</set>
