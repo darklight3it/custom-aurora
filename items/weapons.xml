@@ -3,20 +3,26 @@
     <info>
         <name>Weapons</name>
         <author>darklight3it</author>
-        <update version="0.0.3">
-            <file name="weapons.xml" url="https://raw.githubusercontent.com/darklight3it/custom-aurora/master/items/weapons.xml" />
+        <update version="0.0.4">
+            <file name="weapons.xml"
+                  url="https://raw.githubusercontent.com/darklight3it/custom-aurora/master/items/weapons.xml"/>
         </update>
     </info>
-    <element name="Silver-Plated Weapon" type="Weapon" source="Darklight3it's Custom" id="ID_DARKLIGHT3IT_SILVER_PLATED_WEAPON">
+    <element name="Silver-Plated Weapon" type="Magic Item" source="Darklight3it's Custom"
+             id="ID_DARKLIGHT3IT_SILVER_PLATED_WEAPON">
         <description>
-            <p>This sword was coated with a layer of silver to damage magical creatures. When this swords deals damage, it's considered silvered.</p>
+            <p>This sword was coated with a layer of silver to damage magical creatures. When this swords deals damage,
+                it's considered silvered.
+            </p>
         </description>
         <setters>
             <set name="category">Weapons</set>
             <set name="cost" currency="gp">750</set>
             <set name="type" addition="any">Weapon</set>
             <set name="rarity">Uncommon</set>
-            <set name="weapon">ID_INTERNAL_WEAPON_CATEGORY_SIMPLE_MELEE||ID_INTERNAL_WEAPON_CATEGORY_SIMPLE_RANGED||ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE||ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_RANGED</set>
+            <set name="weapon">
+                ID_INTERNAL_WEAPON_CATEGORY_SIMPLE_MELEE||ID_INTERNAL_WEAPON_CATEGORY_SIMPLE_RANGED||ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE||ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_RANGED
+            </set>
             <set name="name-format">silver-plated {{parent}}</set>
         </setters>
     </element>
