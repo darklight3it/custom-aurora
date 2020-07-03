@@ -4,7 +4,7 @@
         <name>Myconid</name>
         <author>Darklight3it
         </author>
-        <update version="0.0.5">
+        <update version="0.0.6">
             <file name="race-myconid.xml"
                   url="https://raw.githubusercontent.com/darklight3it/custom-aurora/master/races/race-myconid.xml"/>
         </update>
@@ -147,6 +147,7 @@
             <grant type="Vision" id="ID_VISION_SUPERIORDARKVISION"/>
             <grant type="Racial Trait" id="ID_RACIAL_TRAIT_SUNLIGHT_SENSITIVITY"/>
             <grant type="Racial Trait" id="ID_RACIAL_TRAIT_CERTIFIED_ORGANIC"/>
+            <grant type="Racial Trait" id="ID_DARKLIGHT3IT_RACIAL_TRAIT_RAPPORT_SPORES"/>
             <grant type="Language" id="ID_LANGUAGE_COMMON"/>
             <grant type="Racial Trait" id="ID_DARKLIGHT3IT_RACIAL_TRAIT_MYCONID_SUBRACE"/>
         </rules>
@@ -227,6 +228,24 @@
                 form cannot be distinguished from a standard giant fungus. While in this form you are blinded, 
                 incapacitated and your speed is 0. You gain also resistance to all damage except psychic and curses and
                 poisons stop their course. This state lasts for an hour or less if you dismiss it using an action.
+            </description>
+        </sheet>
+    </element>
+    <element name="Rapport Spores" type="Racial Trait" source="Darklight3it's Custom"
+             id="ID_DARKLIGHT3IT_RACIAL_TRAIT_RAPPORT_SPORES">
+        <description>
+            <p>
+               You may as an action, extend rapport spores in a 20-foot radius. These spores can go around corners and
+                affect only creatures with an Intelligence of 2 or higher that aren't undead, constructs, or elementals.
+                Affected creatures can communicate telepathically with one another while they are within 30 feet of each
+                other. The effect lasts for 1 hour.
+            </p>
+        </description>
+        <sheet>
+            <description>You may as an action, extend rapport spores in a 20-foot radius. These spores can go around corners and
+                affect only creatures with an Intelligence of 2 or higher that aren't undead, constructs, or elementals.
+                Affected creatures can communicate telepathically with one another while they are within 30 feet of each
+                other. The effect lasts for 1 hour.
             </description>
         </sheet>
     </element>
